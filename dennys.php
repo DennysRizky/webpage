@@ -41,7 +41,7 @@ echo "Failed to Upload : ".$fileError;
 }
 ?>
 </div>
-<form action="tugas2 PW by Singgih R.S.html" target="_parent">
+<form action="Dennys.html" target="_parent">
 <p align="center"><INPUT TYPE="submit" VALUE="Kembali ke Halaman Awal"></p>
 </form>
 </body>
